@@ -5,6 +5,7 @@ This will be an interactive webinar where you'll be able to follow along and act
 1. How git works.
 2. How to tell git to what to track.
 3. How to tell git you really mean it.
+4. How to clone a repository and what that actually means.
 4. How to share your changes with others.
 5. How to interact with github.
 6. How to get changes that others have introduced to a central repository.
