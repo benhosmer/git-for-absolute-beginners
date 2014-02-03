@@ -17,7 +17,7 @@ This will be an interactive webinar where you'll be able to follow along and act
 To prepare for this, you should:
 
 1. [Install](http://git-scm.com/download) git for your operating system of choice.
-2. Set up a [github](https://github.com/join)account. (We'll use this to work on a sample project.
+2. Set up a [github](https://github.com/join) account. (We'll use this to work on a sample project.
 
 We'll use a [demonstration](https://github.com/benhosmer/git-for-absolute-beginners) that we all can interact with during the webinar.
 
