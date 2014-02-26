@@ -23,3 +23,5 @@ Immediately after they shall be assembled in Consequence of the first Election, 
 The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.
 
 The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States.
+
+NEW text here!
